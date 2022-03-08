@@ -1,0 +1,2 @@
+# WRMS-Analysis
+Visualisation: Graphical representation of Pest count  (At least 3 graphs/ figures) Insights: Years or months with high/low count, locations with high pest count as compared to other locations (at least 3 insights) Modelling approach: temperature/ Humidity ranges which result in high/ low  pest count (Hint: The pest count can be classified into four classes - low, medium, high, very high )
